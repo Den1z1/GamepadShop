@@ -1,0 +1,2 @@
+rootProject.name = "GamePadShop"
+include ':app'
