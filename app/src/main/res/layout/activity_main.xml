@@ -25,16 +25,16 @@
             android:id="@+id/ImageViewBack"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            app:srcCompat="@drawable/back"
-            android:scaleType="centerCrop"/>
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/back" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Sales -30%"
-            android:textSize="30dp"
             android:textColor="@color/white"
+            android:textSize="30dp"
             android:textStyle="bold" />
     </RelativeLayout>
 
@@ -147,7 +147,7 @@
         android:layout_height="40dp"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
-        android:text="Add to cart"/>
+        android:text="Add to cart" />
 
 
 
